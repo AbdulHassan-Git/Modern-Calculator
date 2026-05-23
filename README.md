@@ -30,7 +30,7 @@ All you need is a modern web browser (Chrome, Firefox, Edge, Safari).
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/AbdulHassan-Git/Modern-Calculator.git
+   git clone https://github.com/your-username/Calculator.git
    ```
 2. **Open the project**
    ```bash
@@ -86,4 +86,3 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - Design inspired by modern glassmorphism UI trends
 - Font by [Google Fonts](https://fonts.google.com/)
-
